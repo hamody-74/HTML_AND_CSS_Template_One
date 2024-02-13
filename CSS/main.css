@@ -226,6 +226,7 @@ i {
   grid-gap: 20px;
   grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
   margin-top: 100px;
+  padding: 0 15px;
 }
 
 .main-head {
